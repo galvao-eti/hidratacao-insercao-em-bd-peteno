@@ -1,0 +1,7 @@
+{
+	"user":"teste",
+	"pass":"1234",
+	"dbase":"aula",
+	"host":"localhost",
+	"port":3306
+}
